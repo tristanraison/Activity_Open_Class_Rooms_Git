@@ -1,5 +1,7 @@
 <h1>Bienvenue sur mon site internet:</h1>
 
+<img src="plage.jpg" alt="Photo d'une plage" />
+
 
 <?php
 	
