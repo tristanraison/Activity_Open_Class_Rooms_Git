@@ -16,7 +16,7 @@
 						
 				}else
 				{
-					echo 'Vous devez vous inscrire pour écrire un message';
+					echo 'Vous devez vous inscrire sur le site pour écrire un message';
 				}
 			?>	
 
