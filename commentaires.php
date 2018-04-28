@@ -1,3 +1,6 @@
+<h1>Bienvenue sur mon site internet:</h1>
+
+
 <?php
 	
 				
